@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋 - I'm Matt
+
+Everday is a school day with Data Science as I explore cool project to end products! 
 
 <!--
 **Matt89code/Matt89code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
