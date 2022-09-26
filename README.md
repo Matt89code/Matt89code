@@ -1,4 +1,4 @@
-### Hey there 👋 - I'm Matt
+### Hey there 👋 - I'm Matt!
 
 Everday is a school day with Data Science!! Join me as I explore new projects and develop cool products! 
 
