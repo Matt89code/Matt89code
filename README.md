@@ -1,6 +1,6 @@
 ### Hey there 👋 - I'm Matt!
 
-Everday is a school day with Data Science!! Join me as I explore new projects and develop cool products! 
+Everdays a school day with Data Science!! Join me as I explore new projects and develop cool products! 
 
 - 📫 How to reach me **matthewjawilson@gmail.com**
 
