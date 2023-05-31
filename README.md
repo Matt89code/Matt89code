@@ -19,7 +19,7 @@ Currently building my Web Dev skills as I wanting to display my awesome Data Sci
 Learning
 
 
-<p align="left"> <a href="https://en.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/> </a>
+<p align="left"> <a href="https://en.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg" target="blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/> </a>
 
 
 <!--
