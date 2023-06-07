@@ -2,8 +2,6 @@
 
 Everdays a school day with Data Science!! Join me as I explore new projects and develop cool products! 
 
-- 📫 How to reach me **matthewjawilson@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mattwillo89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mattwillo89" height="30" width="40" /></a>
